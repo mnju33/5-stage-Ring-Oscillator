@@ -1,8 +1,8 @@
-}
 # 5-stage Ring Oscillator
 
 ## 📄 Presentation
-👉 View PDF
+👉 [View PDF](./조민주_5ROSC.pdf)
+👉 View PDF(./조민주_Layout.pdf)
 
 ---
 
