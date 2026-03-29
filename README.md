@@ -1,1 +1,15 @@
-# 5-stage-Ring-Oscillator
+}
+# 5-stage Ring Oscillator
+
+## 📄 Presentation
+👉 View PDF
+
+---
+
+## 📊 Overview
+5-stage ring oscillator design and simulation.
+
+---
+
+## 📷 Preview
+(이미지 나중에 추가
