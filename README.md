@@ -2,7 +2,8 @@
 
 ## 📄 Presentation
 👉 [View PDF](./조민주_5ROSC.pdf)
-👉 View PDF(./조민주_Layout.pdf)
+
+👉 [View PDF](./조민주_Layout.pdf)
 
 ---
 
